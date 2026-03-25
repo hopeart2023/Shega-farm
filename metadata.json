@@ -1,0 +1,9 @@
+{
+  "name": "Shega Farm",
+  "description": "Offline-first AI agriculture platform for Ethiopian farmers, solving pest detection, market transparency, climate alerts, and credit access using advanced Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
